@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "backend",
+  "description": "��#\u0000 \u0000F\u0000O\u0000W\u0000A\u0000-\u0000p\u0000a\u0000r\u0000t\u00003\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesnipe/FOWA-part3.git"
+  },
+  "author": "Myron Sfyrakis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesnipe/FOWA-part3/issues"
+  },
+  "homepage": "https://github.com/lesnipe/FOWA-part3#readme"
+}
